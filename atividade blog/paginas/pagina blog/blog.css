@@ -1,0 +1,52 @@
+h1{
+    color: aliceblue;
+
+}
+
+h4{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+button{
+
+    border-radius: 10px;
+    border: 0;
+    background-color: blue;
+    width: 30%;
+    height: 40px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+
+body{
+    background-color: black;
+    
+}
+
+.cima{
+   text-align: center;
+   border-bottom: white solid 2px;
+   padding: 10px;
+}
+
+.baixo{
+
+    text-align: center;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.voltar{
+
+    color: aliceblue;
+    font-size: 20px;
+}

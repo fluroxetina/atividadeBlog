@@ -1,0 +1,33 @@
+.combo{
+
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+    background-color: #000;
+}
+
+ul{
+    color: aliceblue;
+}
+
+
+p{
+    color: aliceblue;
+    
+}
+
+h3{
+    color: aliceblue;
+}
+
+a{
+    font-size: 40px;
+    color: aliceblue;
+}

@@ -1,0 +1,52 @@
+p{
+    color: #ffffff;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+h2{
+    color: #ffffff;
+
+}
+
+body{
+    background-color: #000000;
+    margin: 0 auto;
+}
+
+.cima{
+    border-bottom: #ffffff solid 2px;
+}
+
+
+img{
+
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+h4{
+    color: #ffffff;
+}
+
+
+.baixo{
+
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.bla{
+
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    
+}

@@ -1,0 +1,31 @@
+img{
+
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul{
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+body{
+
+    background-color: black;
+}
+
+a{  
+  
+    color: aliceblue;
+    font-size: 40px;
+}
